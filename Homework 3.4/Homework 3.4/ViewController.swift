@@ -1,10 +1,11 @@
 //
 //  ViewController.swift
-//  Homework 3
+//  Homework 3.4
 //
-//  Created by MacBook Pro on 27.11.2022.
+//  Created by MacBook Pro on 30.11.2022.
 //
 
+import Foundation
 import UIKit
 
 class ViewController: UIViewController {
